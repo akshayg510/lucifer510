@@ -1,0 +1,15 @@
+{
+	"name": "data510",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "924e47bd-9303-4f04-8856-8556231d8b2d",
+		"tenantId": "260881ed-f396-4539-b4db-fdfd324245a3"
+	}
+}
