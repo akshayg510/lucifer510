@@ -7,11 +7,11 @@
 		"typeProperties": {
 			"server": "luciferdb.database.windows.net",
 			"database": "dbdatabase",
-			"encrypt": "mandatory",
+			"encrypt": "optional",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
 			"userName": "db",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDlDRkIyNDg5LUZDOTktNDk4Mi05M0Y3LUE5ODI3NzA0MDlBRl9hZDk1NTBhMS1kYzU5LTQ5ZmEtOTgxNi0wZTYwZDgwNTcwYWEiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDlDRkIyNDg5LUZDOTktNDk4Mi05M0Y3LUE5ODI3NzA0MDlBRl9iNGY5NGJkOC01MDM5LTRkMTEtYWIxNy03NWQyNjk2MWJhNmEiDQp9"
 		}
 	}
 }
